@@ -14,8 +14,8 @@ local player = Players.LocalPlayer
 -- CONFIGURACIÓN
 --==================================================
 
-local VELOCIDAD_SACAR = 0.01
-local VELOCIDAD_GUARDAR = 0.01
+local VELOCIDAD_SACAR = 0.02
+local VELOCIDAD_GUARDAR = 0.02
 
 local fpsActivo = false
 local macroEnUso = false
